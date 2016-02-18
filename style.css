@@ -1,0 +1,115 @@
+* {
+	margin:0;
+	padding:0;
+}
+
+ body {
+  	height:100%;
+  	width:100%;
+  	background-image:url("god.jpg");
+ }
+
+ 
+
+ 
+
+ #head {
+ 	text-align:center;
+ 	color:white;
+ }
+
+
+ #mlg {
+ 	font-size:50px;
+ 	color:white;
+ }
+
+ #day {
+ 	font-size:25px;
+ 	color:white;
+ }
+
+ #quote {
+ 	font-size:20px;
+ 	color:white;
+ }
+
+ 
+
+ button {
+
+ 	background:#4046FF;
+ 	width:400px;
+ 	height:60px;
+ }
+
+ button:hover {
+ 	background:#475BFF;
+ }
+
+
+.style{
+	color:white;
+	font-size:25px;
+}
+
+#row0 {
+	display:flex;
+	justify-content:center;
+	margin-bottom:15px;
+	 
+}
+
+ #row1 {
+ 	display:flex;
+ 	justify-content:center;
+ }
+
+#row2 {
+	display:flex;
+	justify-content:center;
+}
+
+#row3 {
+	display:flex;
+	justify-content:center;
+}
+
+
+#row4 {
+	display:flex;
+	justify-content:center;
+}
+
+
+#row5 {
+	display:flex;
+	justify-content:center;
+}
+
+
+#row6 {
+	display:flex;
+	justify-content:center;
+}
+
+#row7 {
+	display:flex;
+	justify-content:center;
+
+}
+
+
+#row8 {
+	display:flex;
+	justify-content:center;
+
+}
+
+ 
+.name {
+	font-size:15px;
+	color:white;
+}
+
+ 

@@ -1,0 +1,58 @@
+ 
+
+function pauseAudio() { 
+    weed.pause();
+    weed.currentTime= 0;
+    fired.pause();
+    fired.currentTime= 0;
+    sad.pause();
+    sad.currentTime= 0;
+    sanic.pause();
+    sanic.currentTime= 0;
+    mum.pause();
+    mum.currentTime= 0;
+    spooky.pause();
+    spooky.currentTime= 0;
+    wam.pause();
+    wam.currentTime= 0;
+    gay.pause();
+    gay.currentTime= 0;
+    skrillex.pause();
+    skrillex.currentTime= 0;
+    sadhorn.pause();
+    sadhorn.currentTime= 0;
+    darude.pause();
+    darude.currentTime= 0;
+    nuke.pause();
+    nuke.currentTime= 0;
+    combo.pause();
+    combo.currentTime= 0;
+    john.pause();
+    john.currentTime= 0;
+    nutz.pause();
+    nutz.currentTime= 0;
+    leeroy.pause();
+    leeroy.currentTime= 0;
+    done.pause();
+    done.currentTime= 0;
+    wow.pause();
+    wow.currentTime= 0;
+    baby.pause();
+    baby.currentTime= 0;
+    damn.pause();
+    damn.currentTime= 0;
+    hitmaker.pause();
+    hitmaker.currentTime= 0;
+    horn.pause();
+    horn.currentTime= 0;
+    those.pause();
+    those.currentTime= 0;
+    say.pause();
+    say.currentTime= 0;   
+     allahdub.pause();
+    allahdub.currentTime= 0;
+     allah.pause();
+    allah.currentTime= 0;
+     kazoo.pause();
+    kazoo.currentTime= 0;
+} 
