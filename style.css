@@ -38,7 +38,7 @@
 
  button {
 
- 	background:#4046FF;
+ 	background:#FF453E;
  	width:400px;
  	height:60px;
  }
@@ -61,39 +61,46 @@
 }
 
  #row1 {
+ 	margin-top:3px;
  	display:flex;
  	justify-content:center;
  }
 
 #row2 {
+	margin-top:3px;
 	display:flex;
 	justify-content:center;
 }
 
 #row3 {
+	margin-top:3px;
 	display:flex;
 	justify-content:center;
 }
 
 
 #row4 {
+	margin-top:3px;
 	display:flex;
 	justify-content:center;
 }
 
 
 #row5 {
+	margin-top:3px;
 	display:flex;
 	justify-content:center;
 }
 
 
-#row6 {
+#row6 {		
+	margin-top:3px;
 	display:flex;
 	justify-content:center;
 }
 
 #row7 {
+	margin-top:3px;
 	display:flex;
 	justify-content:center;
 
@@ -101,6 +108,7 @@
 
 
 #row8 {
+		margin-top:3px;
 	display:flex;
 	justify-content:center;
 
@@ -108,8 +116,30 @@
 
  
 .name {
+
 	font-size:15px;
 	color:white;
+	text-align:center;
+}
+ 
+a {
+	text-decoration:none;
+					
+	font-size:20px;
 }
 
- 
+a:hover {
+	text-decoration:none;
+}
+
+ h1 a {
+ 	color:white;
+ 	text-decoration:none;
+
+ }
+
+ h1 a:hover {
+ 	color:black;
+ 	text-decoration:none;
+ }
+
