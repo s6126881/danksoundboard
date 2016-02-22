@@ -34,7 +34,7 @@
  	color:white;
  }
 
- 
+
 
  button {
 
@@ -161,6 +161,7 @@ a:hover {
  		font-size:40px;
  	}
      button {
+     	margin-left:10px;
      	width:300px;
      }
 }
@@ -170,6 +171,7 @@ a:hover {
  		font-size:40px;
  	}
      button {
+     	  	margin-left:10px;
      	width:300px;
      }
 }
@@ -179,6 +181,7 @@ a:hover {
  		font-size:40px;
  	}
      button {
+     	  	margin-left:10px;
      	width:300px;
      }
 }
